@@ -25,19 +25,32 @@
 
     Telecom-X_Parte2/
 	  │
-	  ├── Telecom-X_data.csv
-	  ├── Telecom-X_parte2.ipynb
-	  ├── telecom-X_base.ipynb
+	  ├── datos_depurados.csv
+	  ├── datos_depurados_url.json
+	  ├── datos_por_depurar.ipynb
+	  ├── Telecom-X_LATAM.ipynb
 	  └── README.md
+	  
 ▶️ Cómo Ejecutar el Proyecto
 
     1️⃣ Instalar las siguientes librerías:
     
-    pip install pandas numpy matplotlib seaborn scikit-learn
+    	pip install pandas numpy matplotlib seaborn scikit-learn
 
     2️⃣ Ejecutar el Notebook:
   
-	      Colocar Telecom_data.csv en el mismo directorio del notebook.
-	      Abrir Telecom-X_base.ipynb
-	      Abrir Telecom-X_parte2.ipynb.
-	      Ejecutar las celdas en orden.
+		Colocar datos_depurados.csv en el mismo directorio del notebook.
+	    Abrir datos_por_depurar.ipynb
+		Abrir_datos_depurados.csv
+	    Abrir TelecomX_LATAM.ipynb.
+	    Ejecutar las celdas en orden.
+		
+📘 Librerías utilizadas
+
+		✅pandas.
+		✅plotly.
+		✅matplotlib.
+		✅seaborn.
+		✅scikit-learn.
+		✅numpy.
+		✅pickle.
